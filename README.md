@@ -1,3 +1,3 @@
-# author prief 
+# prief 
 # java
 java journey
